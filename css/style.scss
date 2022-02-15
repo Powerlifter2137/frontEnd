@@ -17,12 +17,13 @@ body{
             font-size: 80px;
             text-align: center; 
             &:nth-of-type(1) {
-                background-color: hsl(168, 74%, 77%);
+                background-image: radial-gradient(circle at bottom center, hsl(168, 72%, 79%)80%,hsl(170, 64%, 26%)140%);
+                //background-color: hsl(168, 74%, 77%);
                 h1 {
                     letter-spacing: 0.2em;
                     color: hsl(46, 55%, 74%);
                     text-shadow: 0 0 3px hsl(34, 68%, 10%), 0 0 5px #0f72cf;
-                    font-family: "huj";
+                    font-family: "nickainley";
                 }
                 #nav{
                     display: flex;

@@ -32,14 +32,14 @@ body #container section {
 }
 
 body #container section:nth-of-type(1) {
-  background-color: #99f0de;
+  background-image: radial-gradient(circle at bottom center, #a3f0e1 80%, #186d5f 140%);
 }
 
 body #container section:nth-of-type(1) h1 {
   letter-spacing: 0.2em;
   color: #e1d098;
   text-shadow: 0 0 3px #2b1c08, 0 0 5px #0f72cf;
-  font-family: "huj";
+  font-family: "nickainley";
 }
 
 body #container section:nth-of-type(1) #nav {
