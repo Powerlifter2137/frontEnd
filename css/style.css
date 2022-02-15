@@ -1,4 +1,4 @@
-@import url("font.css");
+@import url("fonts.css");
 body {
   margin: 0px;
   width: auto;
@@ -75,10 +75,11 @@ body #container section:nth-of-type(2) {
 }
 
 .spacer {
-  aspect-ratio: 950/540;
+  aspect-ratio: 960/540;
   width: 100%;
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 
 .layer1 {
