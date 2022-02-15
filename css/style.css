@@ -1,3 +1,4 @@
+@import url("font.css");
 body {
   margin: 0px;
   width: auto;
@@ -55,6 +56,7 @@ body #container section:nth-of-type(1) #nav {
 
 body #container section:nth-of-type(1) #nav .navdiv {
   margin: 5px;
+  font-family: "justbreath";
 }
 
 body #container section:nth-of-type(1) #nav h5 {

@@ -1,4 +1,4 @@
-@import url("font.css")
+@import url("font.css");
 body{
     margin: 0px;
     width: auto;
@@ -31,6 +31,7 @@ body{
                     padding-right: 10px;
                     .navdiv{
                         margin: 5px;
+                        font-family: "justbreath";
                     }
                     h5{
                         margin: 0.1em 0.3em 0 0.3em;
@@ -42,6 +43,7 @@ body{
             
             &:nth-of-type(2) {
                 background-color: hsl(180, 55%, 74%);
+                
             }
             
         }
