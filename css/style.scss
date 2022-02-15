@@ -18,8 +18,8 @@ body{
             font-size: 60px;
             text-align: center; 
             &:nth-of-type(1) {
-                background-image: radial-gradient(circle at bottom center, hsl(168, 72%, 79%) 80%,hsl(170, 64%, 26%)140%);
-                //background-color: hsl(168, 74%, 77%);
+                //background-image: radial-gradient(circle at bottom center, hsl(168, 72%, 79%) 80%,hsl(170, 64%, 26%)140%);
+                background-color: hsl(168, 72%, 79%);
                 #nametext{
                     margin-top: 25vh;
                     h1 {
